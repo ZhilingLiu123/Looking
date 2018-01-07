@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "665200986059",
+    "firebase_url": "https://event2-40929.firebaseio.com",
+    "project_id": "event2-40929",
+    "storage_bucket": "event2-40929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665200986059:android:ec5eafde88347606",
+        "android_client_info": {
+          "package_name": "com.example.liuzhiling.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665200986059-55u3ko1s0tgv50uskepqdd6jbmnamu2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWPs2oxFUJFTnCCubrY8NLZRzilXX-oXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
